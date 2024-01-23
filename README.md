@@ -7,7 +7,7 @@ Welcome to **R-NGMM** interface
 This tool can also calculate the ground motion aleatory variability components using heteroscedastic hypothesis
 
 The .exe and .csv files can be found in the release
-Run this toll in the same folder of .csv files
+Run this tool in the same folder of .csv files
 
 Extract your zip file "Do not forget to deactivate your antivirus if the exe file is deleted"
 put your variables in the blanc cases in each input parameter cell "**N.B**: decimal variables use point (.), not a comma"
